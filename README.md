@@ -1,1 +1,0 @@
-# AI-Powered-Fake-NEWS-Detector-
